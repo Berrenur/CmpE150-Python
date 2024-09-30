@@ -8,7 +8,7 @@ Bogazici University CmpE 150 Introduction to Computing (Python programming langu
 
 **Additional Materials**
 
-* [Installation Guide](InstallationGuide.md)
+* [Installation Guide](PyCharm%20Installation%20Guide.pdf)
 * http://www.pythontutor.com/visualize.html
 
 
