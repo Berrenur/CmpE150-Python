@@ -137,26 +137,8 @@ coin_change(amount)
 
 <br>
 
+
 ## Q8
-```
-# Calculate the surface area and volume of a sphere
-import math
-
-def sphere_calculations(radius):
-    surface_area = 4 * math.pi * radius**2
-    volume = (4/3) * math.pi * radius**3
-    return surface_area, volume
-
-radius = float(input("Enter the radius of the sphere: "))
-surface_area, volume = sphere_calculations(radius)
-print(f"Surface Area: {surface_area:.2f}, Volume: {volume:.2f}")
-
-
-```
-
-<br>
-
-## Q9
 ```
 # Custom power function
 def exponent(base, exp):
@@ -170,7 +152,7 @@ print(exponent(base, exp))
 
 <br>
 
-## Q10
+## Q9
 ```
 # Sum of even numbers
 nums = [int(input(f"Enter number {i+1}: ")) for i in range(4)]
@@ -181,7 +163,7 @@ print(f"Sum of even numbers: {even_sum}")
 
 <br>
 
-## Q11
+## Q10
 ```
 # Check if a number is a perfect number
 def is_perfect_number(n):
