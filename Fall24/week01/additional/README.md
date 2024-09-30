@@ -100,22 +100,8 @@ Output: 20-cent coins: 7, 5-cent coins: 1
 
 <br>
 
-## Question 8: Area and Volume Calculations
 
-Write a function that takes a radius as input and returns both the surface area and the volume of a sphere. Use the following formulas:
-Surface area: 
-4????2
- 
-Volume: 
-4/3*??*r^3
-
-Input: 5
-Output: Surface Area: 314.16, Volume: 523.60
-
-
-<br>
-
-## Question 9: Custom Power Function 
+## Question 8: Custom Power Function 
 
 Write a function called exponent that takes two integer parameters: base and exp. The function should return the expth power of base.
 
@@ -125,7 +111,7 @@ Output: 8
 
 <br>
 
-## Question 10: Sum of Even Numbers 
+## Question 9: Sum of Even Numbers 
 
 Write a program that takes 4 integers from the user and then prints the sum of the even numbers.
 
