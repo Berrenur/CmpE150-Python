@@ -2,10 +2,16 @@
 
 Bogazici University CmpE 150 Introduction to Computing (Python programming language) Notes
 
-## Materials
+**E-mails:**
+
+* [cmpe150.mail@gmail.com](mailto:cmpe150.mail@gmail.com)
+
+**Additional Materials**
 
 * [Installation Guide](InstallationGuide.md)
-* [Frequently Asked Questions (FAQ)](FrequentlyAskedQuestions%20(FAQ).md)
+* http://www.pythontutor.com/visualize.html
+
+
 
 ## Exercises
 
