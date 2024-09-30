@@ -39,7 +39,7 @@ Output: Sum: 30, Geometric Mean: 5.656, Product: 1024
 
 Use the formula for compound interest to take the principal amount (P), annual interest rate (r) in percentage, and number of years (t) as input. Calculate and print the compound interest for monthly compounding.
 
-A = P * ( 1 + r/100*12)^2*t where
+A = P * ( 1 + r/100 * 12)^2 * t where
 
 A = Final amount after interest
 
