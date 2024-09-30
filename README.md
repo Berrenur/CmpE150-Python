@@ -18,40 +18,51 @@ Bogazici University CmpE 150 Introduction to Computing (Python programming langu
 
 ### [Week2](week02/)
 
-* If-Else Logic
-
+* Text IO, File Operations, Drawing with Input
+  
 
 ### [Week3](week03/)
 
-* Recursives
-
+* Logic Operations (If-Elif-Else)
+  
 
 ### [Week4](week04/)
 
-* Loops in Detail
+* Recursives
+  
 
 ### [Week5](week05/)
 
-* Console Shapes with For Loops
+* Loops in Detail
+
 
 ### [Week6](week06/)
 
-* Lists
-* Tuples
+* Container Data Structure
+
 
 ### [Week7](week07/)
 
-* Container Data Structure
+* Conditional Loops
+  
 
 ### [Week8](week08/)
 
-* Conditional Loops
+* Strings
+  
 
 ### [Week9](week09/)
 
-* Strings
+* Lists
+* Tuples
+  
 
 ### [Week10](week10/)
 
-* Interactive Programming
+* Dictionaries
+  
+
+### [Week11](week11/)
+
+* Animating Shapes, Interactive Programming, Object Oriented Programming Basics
 
