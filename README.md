@@ -1,11 +1,10 @@
-# CmpE150 - Fall 2021
+# CmpE150 - Fall 2024
 
 Bogazici University CmpE 150 Introduction to Computing (Python programming language) Notes
 
 ## Materials
 
 * [Installation Guide](InstallationGuide.md)
-* [Teaching Codes Guide](TeachingCodesGuide.md)
 * [Frequently Asked Questions (FAQ)](FrequentlyAskedQuestions%20(FAQ).md)
 
 ## Exercises
@@ -19,40 +18,40 @@ Bogazici University CmpE 150 Introduction to Computing (Python programming langu
 
 ### [Week2](week02/)
 
-* Functions
+* If-Else Logic
 
 
 ### [Week3](week03/)
 
-* For Loops
+* Recursives
 
 
 ### [Week4](week04/)
 
-* Conditional Statements
+* Loops in Detail
 
 ### [Week5](week05/)
 
-* While Loops
+* Console Shapes with For Loops
 
 ### [Week6](week06/)
-
-* Loops
-
-### [Week7](week07/)
-
-* String
-
-### [Week8](week08/)
 
 * Lists
 * Tuples
 
+### [Week7](week07/)
+
+* Container Data Structure
+
+### [Week8](week08/)
+
+* Conditional Loops
+
 ### [Week9](week09/)
 
-* Dictionary
+* Strings
 
 ### [Week10](week10/)
 
-* Sets
-* Files
+* Interactive Programming
+
