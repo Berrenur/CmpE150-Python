@@ -1,6 +1,6 @@
 ## Q1
 
-```
+
 print("Hello there! I?m the CS101 Study Bot. What?s your name?")
 username = input()
 
@@ -19,12 +19,10 @@ more_info = input()
 print('Well, I was programmed by "' + username + '" in a few lines of code for CS101. My job is to chat and keep you company while you study. Have fun with your course, and let?s talk again soon!')
 
 
-```
 
-<br>
 
 ## Q2
-```
+
 # You are expected to display each one of the following messages on a new line
 # "Cmpe150 requires regular practice"
 # "The more I study, the easier it will become"
@@ -55,5 +53,5 @@ calculate_f(m, a)
 triangle_height = int(input())
 triangle_width = getWidth(triangle_height)
 print(triangle_width)
-```
+
 
