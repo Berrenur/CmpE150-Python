@@ -120,7 +120,7 @@ Output: 6
 
 <br>
 
-## Question 11: Perfect Number Check
+## Question 10: Perfect Number Check
 
 Write a function that takes an integer and determines whether it is a perfect number or not. A perfect number is a number that is equal to the sum of its proper divisors (excluding itself).
 
