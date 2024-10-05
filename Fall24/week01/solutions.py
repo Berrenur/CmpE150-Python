@@ -4,20 +4,19 @@
 print("Hello there! I'm the CS101 Study Bot. What's your name?")
 username = input()
 
-print("Great to meet you,", username + "! How many semesters have you been studying Computer Science?")
+print("Great to meet you, " + username + "! How many semesters have you been studying Computer Science?")
 semesters = input()
 
-print('Ah, "' + semesters + '" semesters, nice! I'm still learning myself. What are you working on right now?')
+print('Ah, "' + semesters + '" semesters, nice! I\'m still learning myself. What are you working on right now?')
 current_topic = input()
 
-print('“' + current_topic + '“, huh? That's a challenging topic! I can't say I know all the algorithms yet, but maybe we can figure it out together? Need help with something specific?')
+print('"' + current_topic + '", huh? That\'s a challenging topic! I can\'t say I know all the algorithms yet, but maybe we can figure it out together? Need help with something specific?')
 specific_help = input()
 
-print('I wish I could, but I'm just a simple chatbot for now. Maybe check out the lecture notes or ask your instructor for more details. I'm here for small talk though! Anything else?')
+print('I wish I could, but I\'m just a simple chatbot for now. Maybe check out the lecture notes or ask your instructor for more details. I\'m here for small talk though! Anything else?')
 more_info = input()
 
-print('Well, I was programmed by "' + username + '" in a few lines of code for CS101. My job is to chat and keep you company while you study. Have fun with your course, and let's talk again soon!')
-
+print('Well, I was programmed by "' + username + '" in a few lines of code for CS101. My job is to chat and keep you company while you study. Have fun with your course, and let\'s talk again soon!')
 
 
 
