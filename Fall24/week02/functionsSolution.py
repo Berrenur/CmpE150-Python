@@ -1,6 +1,4 @@
-'''
-You would need to manually implement the logic for each function
-'''
+
 
 def square(number):
     # exponentiation operator
