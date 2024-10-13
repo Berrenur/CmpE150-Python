@@ -27,7 +27,7 @@ Bogazici University CmpE 150 Introduction to Computing (Python programming langu
 * Turtle Graphics
   
 
-### [Week3]()
+### [Week3](Fall24/week03)
 
 * Text IO and File Operations
 * Drawing with Input
