@@ -33,7 +33,7 @@ Bogazici University CmpE 150 Introduction to Computing (Python programming langu
 * Drawing with Input
   
 
-### [Week4]()
+### [Week4](Fall24/week04)
 
 * Logic Operations (If-Elif-Else)
 * Recursive Functions 
