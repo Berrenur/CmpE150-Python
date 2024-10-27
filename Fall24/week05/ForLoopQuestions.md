@@ -9,11 +9,17 @@ Output:
 Print each second in HH:MM format, simulating the passage of time.
 
 For seconds_limit = 5, the output should be:
+
 00:00:00
+
 00:00:01
+
 00:00:02
+
 00:00:03
+
 00:00:04
+
 00:00:05
 
 <br>
@@ -24,12 +30,16 @@ Write a program that prints Pascal's Triangle up to a given number of rows, n. P
 
 Each number in a row is the sum of the two numbers directly above it. Use nested for loops to generate each row based on the previous row.
 
-For n = 5:
+For n = 4:
+
        1
+       
       1 1
+      
      1 2 1
+     
     1 3 3 1
-   1 4 6 4 1
+    
 
 <br>
 
@@ -38,9 +48,13 @@ For n = 5:
 Write a program that generates a square matrix of numbers in a spiral pattern. The matrix should be filled with consecutive integers starting from 1, spiraling inwards in a clockwise direction from the top-left corner.
 
 For n = 4:
+
 1   2   3   4
+
 12  13  14   5
+
 11  16  15   6
+
 10   9   8   7
 
 Hints:
@@ -62,10 +76,15 @@ Output:
 A checkerboard pattern of size n, alternating between X and O in a grid.
 
 For n = 5, the output should be:
+
 X O X O X
+
 O X O X O
+
 X O X O X
+
 O X O X O
+
 X O X O X
 
 <br>
@@ -88,15 +107,23 @@ Output:
 Print the grid state after applying the rules of the game for one generation.
 
 For n = 4 and initial grid:
+
 0 1 0 0
+
 0 0 1 0
+
 1 1 1 0
+
 0 0 0 0
 
 The output after one generation should be:
+
 0 0 0 0
+
 1 0 1 0
+
 0 1 1 0
+
 0 1 0 0
 
 
