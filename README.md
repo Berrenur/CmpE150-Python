@@ -39,42 +39,42 @@ Bogazici University CmpE 150 Introduction to Computing (Python programming langu
 * Recursive Functions 
   
 
-### [Week5]()
+### [Week5](Fall24/week05)
 
 * Repeating Instructions for Loops in Detail
 * Printing Console Shapes with for Loops
 
 
-### [Week6]()
+### [Week6](Fall24/week06)
 
 * Random Numbers
 * Tuples and Lists
 * Algorithms
 
 
-### [Week7]()
+### [Week7](Fall24/week07)
 
 * Container Data Structures
   
 
-### [Week8]()
+### [Week8](Fall24/week08)
 
 * Conditional Loop
   
 
-### [Week9]()
+### [Week9](Fall24/week09)
 
 * Strings
 * Lists
 * Tuples
   
 
-### [Week10]()
+### [Week10](Fall24/week10)
 
 * Dictionaries
   
 
-### [Week11]()
+### [Week11](Fall24/week11)
 
 * Animating Shapes, Interactive Programming, Object Oriented Programming Basics
 
