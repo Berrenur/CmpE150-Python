@@ -1,10 +1,16 @@
 # Complete the roof code here so it prints a triangular roof based on the given height.
-# For instance, if `height = 3`, the output should look like:
+# For instance, if `wall_height = 3` and `roof_height = 3`, the output should look like:
 #
-#     ___
-#    /   \\
-#   /     \\
-#  TTTTTTTTT
+
+#   __________
+#  /    /\    \
+# /    /  \    \
+#TTTTTTTTTTTTTTTT
+#   |       |
+#   |       |
+#   #########
+
+
 
 def print_roof(height):
 
