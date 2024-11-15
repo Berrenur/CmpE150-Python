@@ -18,7 +18,7 @@ INPUT	OUTPUT
 
 <br>
 
-Question 3 - Value Inverter
+## Question 3 - Value Inverter
 Write a function that takes a dictionary and returns a new dictionary with keys and values swapped.
 
 INPUT	OUTPUT
