@@ -7,9 +7,13 @@ Write a function factorial that takes a positive integer n and calculates its fa
 Write a function sum_until_negative that keeps asking the user for numbers until they enter a negative number. Return the sum of all non-negative numbers entered.
 
 INPUT ->	OUTPUT
+
 Enter a number: 5
+
 Enter a number: 3
+
 Enter a number: 0
+
 Enter a number: -1	-> Sum: 8
 
 <br>
@@ -18,8 +22,11 @@ Enter a number: -1	-> Sum: 8
 Write a function guess_the_number that generates a random number between 1 and 100 and keeps asking the user to guess it until they get it right. After each guess, tell the user if their guess was too high, too low, or correct.
 
 INPUT -> OUTPUT
+
 Guess a number: 50 -> Too high.
+
 Guess a number: 25 -> Too low.
+
 Guess a number: 37 -> Correct!
 
 <br>
@@ -28,7 +35,9 @@ Guess a number: 37 -> Correct!
 Write a function password_check that repeatedly asks the user to enter a password until they enter the correct one. The correct password is "python123".
 
 INPUT	-> OUTPUT
+
 Enter password: hello -> Wrong password.
+
 Enter password: python123 -> Access granted.
 
 <br>
@@ -52,6 +61,7 @@ Use a while loop to move a turtle forward until it hits the edge of the screen.
 Write a function number_filter that takes a list of integers and two bounds low and high. Use a while loop to remove all numbers outside the range [low, high] from the list.
 
 INPUT	-> OUTPUT
+
 [1, 5, 8, 12, 20], low=5, high=15 -> [5, 8, 12]
 
 <br>
@@ -60,6 +70,7 @@ INPUT	-> OUTPUT
 Write a function first_repeated_word that takes a list of words and uses a while loop to find the first word that repeats.
 
 INPUT	-> OUTPUT
+
 ["apple", "banana", "orange", "apple", "grape"] -> First repeated word: apple
 
 <br>
@@ -74,7 +85,9 @@ Guess the Number
 Quit
 
 INPUT	-> OUTPUT
+
 Menu:  
+
 1. Calculate Factorial  
 2. Guess the Number  
 3. Quit  
