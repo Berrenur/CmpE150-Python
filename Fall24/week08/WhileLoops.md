@@ -14,7 +14,7 @@ Enter a number: -1	-> Sum: 8
 
 <br>
 
-Question 3 - Guess the Number
+## Question 3 - Guess the Number
 Write a function guess_the_number that generates a random number between 1 and 100 and keeps asking the user to guess it until they get it right. After each guess, tell the user if their guess was too high, too low, or correct.
 
 INPUT -> OUTPUT
