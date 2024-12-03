@@ -49,8 +49,6 @@ Bogazici University CmpE 150 Introduction to Computing (Python programming langu
 
 * Random Numbers
 * Tuples and Lists
-* Algorithms
-
 
 ### [Week7](Fall24/week07)
 
