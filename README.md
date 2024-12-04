@@ -49,12 +49,10 @@ Bogazici University CmpE 150 Introduction to Computing (Python programming langu
 
 * Random Numbers
 * Tuples and Lists
-* Algorithms
-
 
 ### [Week7](Fall24/week07)
 
-* Container Data Structures
+* Dictionaries
   
 
 ### [Week8](Fall24/week08)
@@ -65,16 +63,17 @@ Bogazici University CmpE 150 Introduction to Computing (Python programming langu
 ### [Week9](Fall24/week09)
 
 * Strings
-* Lists
-* Tuples
   
 
 ### [Week10](Fall24/week10)
 
-* Dictionaries
-  
+* Sets
 
 ### [Week11](Fall24/week11)
+
+* Lists and Tuples in Detail
+
+### [Week12](Fall24/week12)
 
 * Animating Shapes, Interactive Programming, Object Oriented Programming Basics
 
