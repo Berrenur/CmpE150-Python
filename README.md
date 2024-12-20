@@ -75,5 +75,5 @@ Bogazici University CmpE 150 Introduction to Computing (Python programming langu
 
 ### [Week12](Fall24/week12)
 
-* Animating Shapes, Interactive Programming, Object Oriented Programming Basics
+* Animating Shapes
 
